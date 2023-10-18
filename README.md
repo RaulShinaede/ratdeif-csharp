@@ -7,3 +7,4 @@ This repository holds the secret to becoming the much-dreamed C# developer, with
 ## Level 1️⃣: Baby 🧸
 
 1. Write a C# Sharp program to print 'Wubba Lubba Dub-Dub!'.
+   > [Resolution](./resolutions/Level1/RatdeifCsharp.Level1.Exercise1)
