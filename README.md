@@ -7,6 +7,6 @@ This repository holds the secret to becoming the much-dreamed C# developer, with
 ## Level 1️⃣: Baby 🧸
 
 1. Write a C# program to print 'Wubba Lubba Dub-Dub!'.
-   > [Resolution](./resolutions/Level1/RatdeifCsharp.Level1.Exercise1)
+   > [Resolution](https://github.com/RaulShinaede/ratdeif-csharp/tree/main/resolutions/Level1/RatdeifCsharp.Level1.Exercise1)
 2. Write a C# program that takes an age (for example 20) as input and prints something like "You look older than 20".
 3. Write a C# program to print the sum of two numbers.
